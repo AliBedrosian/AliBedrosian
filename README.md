@@ -9,4 +9,4 @@ Python • SQL • Pandas • Matplotlib • scikit-learn • Flask • JavaScri
 
 📫 Let’s Connect!
 I'm always excited to learn, collaborate, and take on new challenges.
-Email: 1alibarbara1@gmail.com / LinkedIn: https://www.linkedin.com/in/alisonbmcc/
+Email: alisonbedrosian@gmail.com / LinkedIn: https://www.linkedin.com/in/alisonbmcc/
